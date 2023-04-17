@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.cdnfonts.com/css/cabinet-grotesk');
+
+body {
+  margin: 0;
+  font-family: 'Cabinet Grotesk', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+label{
+  color : #292525 
+}
