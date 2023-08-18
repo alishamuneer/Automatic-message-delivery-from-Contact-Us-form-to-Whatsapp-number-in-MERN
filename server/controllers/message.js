@@ -1,24 +1,24 @@
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
-const fs = require('fs');
+
 
 
 const numbersArray = [
     {
         code: 1001,
-        number: '+923057001701'
+        number: '+112233445566'
     },
     {
         code: 1002,
-        number: '+923226508654'
+        number: '+112233445566'
     },
     {
         code: 1003,
-        number: '+923335225554'
+        number: '+112233445566'
     },
     {
         code: 1004,
-        number: '+923216664738'
+        number: '+112233445566'
     }
 ]
 
